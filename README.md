@@ -30,6 +30,27 @@
 ## About The Project
 ![image alt](https://github.com/Sathish-shin/Clone/blob/68ce1320b30e5fe127b307eff1321cb41861b3eb/Screenshot%20(1).png)
 ![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(2).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(3).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(4).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(5).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(6).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(7).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(8).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(9).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(10).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(11).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(12).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(13).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(14).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(15).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(16).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(18).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(19).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(20).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(21).png?raw=true)
+![image alt](https://github.com/Sathish-shin/Clone/blob/main/Screenshot%20(22).png?raw=true)
+
+
 
 This project is a clone of the Apple Vision Pro website's frontend, created as a part of a web development learning experience. The goal of this project is to practice and showcase skills in HTML, CSS, and JavaScript, while also exploring the use of advanced animation libraries such as Locomotive Scroll, ScrollTrigger, and GSAP.
 

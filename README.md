@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/harjyoti12/apple-vision-pro ">
+  <a href="https://github.com/Sathish-shin/apple-vision ">
     <img src="\images\knowledge_graph_logo.png">
   </a>
 
@@ -10,7 +10,7 @@
     An Awesome apple-vision-pro site clone Projects!
     <br/>
     <br/>
-    <a href="https://harjyoti12.github.io/apple-vision-pro-clone/">View Demo</a>
+    <a href="https://Sathish-shin.github.io/apple-vision-clone/">View Demo</a>
   </p>
 </p>
 

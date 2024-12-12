@@ -25,24 +25,9 @@
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [Authors](#authors)
 
 
 ## About The Project
-
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_09_56.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_10_13.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_10_23.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_10_29.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_10_36.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_10_45.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_11_03.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_11_09.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_11_23.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_11_28.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_11_36.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro%20-%20Apple%20-%20Google%20Chrome%2018-02-2024%2018_40_04.png)
-![Screen Shot](/project-img/Apple%20Vision%20Pro-Apple%20-%20Google%20Chrome%2020-02-2024%2021_12_06.png)
 
 This project is a clone of the Apple Vision Pro website's frontend, created as a part of a web development learning experience. The goal of this project is to practice and showcase skills in HTML, CSS, and JavaScript, while also exploring the use of advanced animation libraries such as Locomotive Scroll, ScrollTrigger, and GSAP.
 
@@ -79,7 +64,7 @@ Web Browser: You'll need a modern web browser like Chrome, Firefox, Safari, or E
 ### Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/harjyoti12/your-repository.git
+git clone https://github.com/Sathish-shin/your-repository.git
 Navigate to the project directory:
 cd your-repository
 Open the project in your preferred code editor:
@@ -97,7 +82,7 @@ Save the changes and refresh the browser to see the updates.
 ## Usage
 
 Clone the repository to your local machine:
-git clone https://github.com/harjyoti12/your-repository.git
+git clone https://github.com/Sathish-shin/your-repository.git
 Navigate to the project directory:
 cd your-repository
 Open the index.html file in your web browser.
@@ -171,9 +156,5 @@ Wait for Review: Wait for the project maintainers to review your pull request. T
 
 Merge Pull Request: Once your pull request has been approved, it will be merged into the original repository's master branch. Congratulations, you've successfully created a pull request!
 
-
-## Authors
-
-* **harjyoti** - ** - [harjyoti](https://www.buymeacoffee.com/horoji86v) - *clone apple-vision-pro site*
 
 

@@ -28,7 +28,7 @@
 
 
 ## About The Project
-https://github.com/Sathish-shin/Clone/blob/68ce1320b30e5fe127b307eff1321cb41861b3eb/Screenshot%20(1).png
+![image alt](https://github.com/Sathish-shin/Clone/blob/68ce1320b30e5fe127b307eff1321cb41861b3eb/Screenshot%20(1).png)
 
 This project is a clone of the Apple Vision Pro website's frontend, created as a part of a web development learning experience. The goal of this project is to practice and showcase skills in HTML, CSS, and JavaScript, while also exploring the use of advanced animation libraries such as Locomotive Scroll, ScrollTrigger, and GSAP.
 
